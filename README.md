@@ -12,4 +12,4 @@ I like building practical apps end to end: from requirements and design to a wor
 
 **Tools I use:** TypeScript · JavaScript · React Native · Node.js · PostgreSQL · Git & GitHub · HTML · CSS · PHP
 
-📫 **Reach me:** gomaa@gomaayounes.dev
+📫 **Reach me:** gomaa@gomaayounes.dev · [LinkedIn](https://www.linkedin.com/in/gomaayounes)
